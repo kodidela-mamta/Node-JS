@@ -1,6 +1,6 @@
 mamta = {
     name: 'Mamta',
-    favNum: 3,
+    favNum: 38,
     developer: true
 }
 
