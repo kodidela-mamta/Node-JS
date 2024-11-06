@@ -1,3 +1,3 @@
-const Giri = require('./second');
+const Giri = require("./second");
 
-console.log('Giri',Giri)
+console.log("Giri", Giri);

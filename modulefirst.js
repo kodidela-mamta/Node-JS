@@ -1,3 +1,5 @@
 import { simple } from "./modulesecond.mjs";
+import * as a from "./modulesecond.mjs";
 
-simple()
+simple();
+console.log(a.simple());
